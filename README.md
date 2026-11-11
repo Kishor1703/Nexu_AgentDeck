@@ -16,7 +16,7 @@ flutter test                     # runtime tests
 flutter run                      # run on device/emulator
 flutter build apk --release      # APK -> build/app/outputs/flutter-apk/app-release.apk
 ```
-Before building, edit `lib/about_config.dart` (your full name and the time you received the task).
+Before building, edit `lib/about_config.dart`
 
 ## Architecture
 ```
